@@ -1,0 +1,18 @@
+{
+    "id": 10,
+    "name": "Math",
+    "classId": {
+        "id": 1,
+        "name": "Grade 10A"
+    },
+    "teacherSubjects": [
+        {
+            "teacherId": 100,
+            "subjectId": 10
+        },
+        {
+            "teacherId": 101,
+            "subjectId": 10
+        }
+    ]
+}

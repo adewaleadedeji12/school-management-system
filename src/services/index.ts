@@ -1,0 +1,9 @@
+export { AuthService, authService } from './auth.service';
+export { EmailService, emailService } from './email.service';
+export { StudentService, studentService } from './student.service';
+export { TeacherService, teacherService } from './teacher.service';
+export { ClassService, classService } from './class.service';
+export { AttendanceService, attendanceService } from './attendance.service';
+export { GradeService, gradeService } from './grade.service';
+export { FeeService, feeService } from './fee.service';
+export { AnnouncementService, announcementService } from './announcement.service';
